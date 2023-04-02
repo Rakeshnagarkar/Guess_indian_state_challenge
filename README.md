@@ -18,9 +18,8 @@ If you press "Exit" during the game, the program will end and show you a list of
 ## How to play the game:
 
 The game will look something like this:
-```bash
+
 ![indianmap git](https://user-images.githubusercontent.com/114185766/229351006-12230542-0e75-4e00-aeb6-e7e8513179e5.png)
-```
 
 1.A map of India will be displayed on the screen with some states and union territories highlighted.
 2.The input screen will show the number of states you have correctly guessed out of 35, in the format "guessed state/35".
