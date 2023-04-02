@@ -24,11 +24,17 @@ The game will look something like this:
 ![indianmap git](https://user-images.githubusercontent.com/114185766/229351006-12230542-0e75-4e00-aeb6-e7e8513179e5.png)
 
 1.A map of India will be displayed on the screen with some states and union territories highlighted.
+
 2.The input screen will show the number of states you have correctly guessed out of 35, in the format "guessed state/35".
+
 3.You will be prompted to enter the name of an Indian state or union territory.
+
 4.If you guess correctly, the name of the state or union territory will be displayed on the map and your score will be updated.
+
 5.If you guess incorrectly, you can keep guessing until you get it right or choose to exit the game by typing "exit" (without quotes) instead of a state name.
+
 6.If you exit the game early, a CSV file called "states_to_learn_in_india.csv" will be created in the same folder as the game code, which will contain the names of the states and union territories that you did not guess correctly.
+
 7.If you correctly guess all 35 states and union territories, a congratulations message will be displayed.
 
 ## Design
