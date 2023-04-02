@@ -12,7 +12,9 @@ If you press "Exit" during the game, the program will end and show you a list of
 ## How to run the game:
 
 1.Download or clone the game code, CSV file, and GIF image from the GitHub repository to a folder on your computer.
+
 2.Open a terminal or command prompt and navigate to the folder where you downloaded the game code.
+
 3.Run the game using the command "python3 indian_states_game.py" (or the appropriate command for your Python 3 installation).
 
 ## How to play the game:
